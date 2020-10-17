@@ -8,14 +8,14 @@
 - 🌱 I’m currently interested in learning Rust, Rendering, Type/Effect System and Ski🎿
 - 🎮 I’m currently playing Ace Attrony: Phoenix Wright Trilogy, The Legend of Heroes: Trails of Cold Steel 4, and CS:GO🔫
 
-### Stats
+### 📈 Stats
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
 ![Stats](https://github-readme-stats.vercel.app/api?username=dontpanic92&include_all_commits=true&hide_border=true&title_color=F25C54)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dontpanic92&&show_icons=true&hide_border=true&theme=vue&&title_color=F25C54&layout=compact&langs_count=8)
 
-### Recent Posts
+### ✏ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [迟早会有人离开这个小圈圈](https://dontpanic.blog/%e8%bf%9f%e6%97%a9%e4%bc%9a%e6%9c%89%e4%ba%ba%e7%a6%bb%e5%bc%80%e8%bf%99%e4%b8%aa%e5%b0%8f%e5%9c%88%e5%9c%88/)
