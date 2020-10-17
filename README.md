@@ -5,7 +5,7 @@
 [![Zhihu](https://img.shields.io/badge/ZhiHu-dontpanic-blue?logo=zhihu&style=flat-square)](https://www.zhihu.com/people/li-sheng-qiu)
 
 - 🔭 I’m currently employed by Microsoft working on Data Pipelines and Analysis for Office Search and Cortana🔍
-- 🌱 I’m currently interested in learning Rust, Rendering, Type/Effect System and Ski🎿
+- 🌱 I’m currently interested in learning Rust, Rendering, Machine Learning and Ski🎿
 - 🎮 I’m currently playing Ace Attrony: Phoenix Wright Trilogy, The Legend of Heroes: Trails of Cold Steel 4, and CS:GO🔫
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
