@@ -11,9 +11,9 @@
 ### 📈 Stats
 
 <!-- bg_color=60,f7b267,f25c54&text_color=fff&title_color=fff&icon_color=fff-->
-![Stats](https://github-readme-stats.vercel.app/api?username=dontpanic92&include_all_commits=true&hide_border=true&title_color=F25C54)
+![Stats](https://github-readme-stats.vercel.app/api?username=dontpanic92&include_all_commits=true&hide_border=true&theme=graywhite)
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dontpanic92&&show_icons=true&hide_border=true&theme=vue&&title_color=F25C54&layout=compact&langs_count=8)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dontpanic92&&show_icons=true&hide_border=true&theme=graywhite&layout=compact&langs_count=8)
 
 ### ✏ Recent Posts
 
