@@ -25,6 +25,7 @@ Here are the video games that I played-through and recommended:
 - [ICEY](https://en.wikipedia.org/wiki/Icey)
 - [Mark of the Ninja](https://en.wikipedia.org/wiki/Mark_of_the_Ninja)
 - [Hades](https://en.wikipedia.org/wiki/Hades_(video_game))
+- [Tenchu](https://en.wikipedia.org/wiki/Tenchu)
 
 ## AVG
 
