@@ -32,6 +32,12 @@ Here are the video games that I played-through and recommended:
 - [Ghost Trick](https://en.wikipedia.org/wiki/Ghost_Trick:_Phantom_Detective)
 - [Pony Island](https://en.wikipedia.org/wiki/Pony_Island)
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
+- [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3)
+
+## PLATFORM
+
+- [Super Mario Series](https://en.wikipedia.org/wiki/Super_Mario)
+- [Fez](https://en.wikipedia.org/wiki/Fez_(video_game))
 
 ## RACING
 
