@@ -34,11 +34,11 @@ Here are the video games that I played-through and recommended:
 - [The Stanley Parable](https://en.wikipedia.org/wiki/The_Stanley_Parable)
 - [Luigi's Mansion 3](https://en.wikipedia.org/wiki/Luigi%27s_Mansion_3)
 
-## PLATFORM
+## Platform
 
 - [Super Mario Series](https://en.wikipedia.org/wiki/Super_Mario)
 - [Fez](https://en.wikipedia.org/wiki/Fez_(video_game))
 
-## RACING
+## Racing
 
 - [Forza Horizon 4](https://en.wikipedia.org/wiki/Forza_Horizon_4)
