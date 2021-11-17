@@ -16,9 +16,9 @@
 ### ✏ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Notepad++/Rust：技术与政治](https://dontpanic.blog/notepadpp-rust-tech-and-politics/)
 - [OpenPAL3：仙三开源版的第二个小目标 Accomplish！](https://dontpanic.blog/openpal3-v0-2/)
 - [传统的 try-catch 异常处理是否是编程语言发展中的弯路？](https://dontpanic.blog/is-try-catch-a-lag-in-programming-languages/)
 - [Firefox 的 logo 上趴着的居然是一只小熊猫？](https://dontpanic.blog/red-panda-in-firefox-logo/)
 - [鸿蒙 2.0 模拟器里究竟有什么：鸿蒙 Java 运行时简析](https://dontpanic.blog/the-java-runtime-in-hongmeng/)
-- [迟早会有人离开这个小圈圈](https://dontpanic.blog/%e8%bf%9f%e6%97%a9%e4%bc%9a%e6%9c%89%e4%ba%ba%e7%a6%bb%e5%bc%80%e8%bf%99%e4%b8%aa%e5%b0%8f%e5%9c%88%e5%9c%88/)
 <!-- BLOG-POST-LIST:END -->
