@@ -17,6 +17,7 @@ Here are the video games that I played-through and recommended:
 - [Ys Series](https://en.wikipedia.org/wiki/Ys_(series))
 - [GuJian 3](https://en.wikipedia.org/wiki/Gujian_3)
 - [Chinese Paladin 3](https://en.wikipedia.org/wiki/Chinese_Paladin_3)
+- [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring)
 
 ## ACT
 
