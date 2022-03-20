@@ -16,9 +16,9 @@
 ### ✏ Recent Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [node-ipc：再谈开源软件与政治](https://dontpanic.blog/node-ipc-foss-and-politics/)
 - [OpenPAL3 v0.3：主线剧情完结撒花🎉！](https://dontpanic.blog/openpal3-v0-3/)
 - [Notepad++/Rust：技术与政治](https://dontpanic.blog/notepadpp-rust-tech-and-politics/)
 - [OpenPAL3：仙三开源版的第二个小目标 Accomplish！](https://dontpanic.blog/openpal3-v0-2/)
 - [传统的 try-catch 异常处理是否是编程语言发展中的弯路？](https://dontpanic.blog/is-try-catch-a-lag-in-programming-languages/)
-- [Firefox 的 logo 上趴着的居然是一只小熊猫？](https://dontpanic.blog/red-panda-in-firefox-logo/)
 <!-- BLOG-POST-LIST:END -->
